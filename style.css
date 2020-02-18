@@ -1,0 +1,18 @@
+@import "mystyle.css";
+h1
+{
+text-align:center;
+}
+
+
+p
+{
+font-size:50px;
+color:black;
+}
+ul li i{
+color:red;
+}
+div > u{
+background-color:lightgrey;
+}
